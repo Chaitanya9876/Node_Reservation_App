@@ -1,0 +1,30 @@
+{
+  "name": "app_test",
+  "version": "1.0.0",
+  "description": "Reservation_APP",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaitanya9876/Node_Reservation_App.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Chaitanya Raju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaitanya9876/Node_Reservation_App/issues"
+  },
+  "homepage": "https://github.com/Chaitanya9876/Node_Reservation_App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
